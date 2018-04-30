@@ -4,6 +4,7 @@
 
 ##TODO
 - Product search by category/ name etc need to be implemented
+- Add Exception handling
 - Add product need to keep a count of products available, and there should be validation for added products
 - need to enhance to have user login functionality (using spring security and redis server to store session and establish client connections, 
 username and password can be stored to the in memory h2 db (or LDAP), where password is encrypted)
